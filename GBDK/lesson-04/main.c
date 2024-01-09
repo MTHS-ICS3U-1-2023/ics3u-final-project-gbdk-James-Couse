@@ -1,7 +1,7 @@
 // copyright (c) 2023 James Couse All rights reserved
 //
 // Created by: James Couse
-// Created on: Dec 2023
+// Created on: Jan 2024
 // This program is the "Space Aliens" program for the GameBoy
 
 #include <gb/gb.h>
@@ -9,8 +9,6 @@
 
 #include "SpaceAliens.c"
 #include "MetaSprites.c"
-#include "Background.c"
-#include "BackgroundMap.c"
 #include "SpaceAliensBackgroundMap.c"
 
 void main() {
